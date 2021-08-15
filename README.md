@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pritika-jha
 - 👀 I’m interested in Data Science..
-- 🌱 I’m currently learning Supervised Learning ...
+- 🌱 I’m currently learning Supervised Machine Learning ...
 
 
 
